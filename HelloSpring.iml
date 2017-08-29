@@ -29,5 +29,14 @@
     <orderEntry type="library" name="aopalliance-1.0" level="project" />
     <orderEntry type="library" name="jstl" level="project" />
     <orderEntry type="library" name="standard" level="project" />
+    <orderEntry type="library" name="gson-2.2.2" level="project" />
+    <orderEntry type="library" name="com.kenai.nbpwr:org-apache-commons-dbcp:1.2.2-201002241055" level="project" />
+    <orderEntry type="library" name="com.kenai.nbpwr:org-apache-commons-pool:1.4-201002241055" level="project" />
+    <orderEntry type="library" name="commons-pool-1.4" level="project" />
+    <orderEntry type="library" name="org-apache-commons-pool-1.4-201002241055" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.42-bin" level="project" />
+    <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="library" name="org.freemarker:freemarker:2.3.23" level="project" />
+    <orderEntry type="library" name="freemarker-2.3.23" level="project" />
   </component>
 </module>

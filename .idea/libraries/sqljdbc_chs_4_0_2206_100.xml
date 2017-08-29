@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljdbc-chs-4.0.2206.100">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc-chs-4.0.2206.100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

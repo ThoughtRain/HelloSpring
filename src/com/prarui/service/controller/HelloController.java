@@ -1,4 +1,4 @@
-package com.yuntao.hello;
+package com.prarui.service.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
@@ -16,6 +16,7 @@ public class HelloController {
     public String printHello(ModelMap model) {
         model.addAttribute("msg", "Spring MVC Hello World");
         model.addAttribute("name", "yuntao");
+        model.addAttribute("space","wangrui");
         return "hello";
     }
 
